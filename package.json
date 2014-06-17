@@ -1,0 +1,16 @@
+{
+ "dependencies": {
+  "restify": ">=2.8.1",
+  "restify-session": ">=1.0.2",
+  "mssql": ">=0.5.3"
+ },
+ "name": "Service",
+ "main": "server.js",
+ "scripts": {
+  "start": "node server.js"
+ },
+ "version": "0.0.0",
+ "engines": {
+  "node": "0.10.x"
+ }
+}
